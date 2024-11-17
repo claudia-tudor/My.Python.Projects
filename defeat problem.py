@@ -1,6 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 Caroline_tci=bool(int(input("Did Simona defeat Caroline?")))
 Maria_tci=bool(int(input("Did Simona defeat Maria?")))
 Carla_tci=bool(int(input("Did Maria defeat Carla?")))
