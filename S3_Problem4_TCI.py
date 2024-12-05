@@ -1,6 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 print("Please enter the short side length:")
 short_tci=float(input())
 print("Please enter the long side length:")
