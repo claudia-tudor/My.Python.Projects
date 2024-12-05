@@ -1,6 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 print("Please enter the radius as integer number:")
 radius_tci=int(input())
 area_tci=radius_tci**2*3.14
