@@ -1,0 +1,1 @@
+print("Minimum of numbers listed is: " , min (1,4,7,100,99,101))
