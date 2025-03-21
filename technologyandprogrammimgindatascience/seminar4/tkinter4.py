@@ -13,7 +13,6 @@ def Randomize_tci():
     random_number_tci = random.randint(700, 1000)  
     Label_initials_Message_tci.config(text="No number yet", fg="black", bg="white")  
 
-# Function to check the entered number  
 def Check_tci():  
     global guess_made_tci  
     guess_made_tci = int(Text_Number_tci.get())  
